@@ -1,0 +1,66 @@
+body{ color: #333;}
+#wrap
+{
+/*    max-width: 1180px;
+    width: 80%;*/
+    padding: 20px;
+}
+.logo-cnt
+{
+    margin: 10px 0;
+}
+
+#footer {
+    background: #56565b;
+    padding: 40px 0;
+}
+#footer li.menu-item a {
+	color: white;
+	font-size: 14px;
+	display: block;
+	margin-bottom: 22px;
+	font-family: 'BellGothicStd-Bold';
+}
+.copyright
+{
+   color:#fff;
+}
+
+.btn-primary
+{
+    background-color: #f7d600;
+    background-image: none;
+    box-shadow: none;
+    text-shadow: none;
+
+    color: black;
+    background-color: #979698;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: -1px;
+    border: none;
+    padding: 10px 30px ;
+    font-weight: bold;
+    border-radius: 5px;
+    text-transform: uppercase;
+    vertical-align: sub;
+}
+
+.btn-primary:hover
+{
+    
+    background-color: #f7d600;
+    background-image: none;
+    box-shadow: none;
+    text-shadow: none;
+
+    color: black;
+}
+.servey-form .form-group
+{
+    margin:10px 0;
+}
+.cat-heading
+{
+    font-weight: bold;
+}

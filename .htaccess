@@ -1,0 +1,35 @@
+Options +FollowSymlinks
+RewriteEngine On
+
+# deal with admin first
+RewriteCond %{REQUEST_URI} ^/youthinc/(admin) 
+RewriteRule ^admin/assets/(.*)$ backend/web/assets/$1 [L]
+RewriteRule ^admin/css/(.*)$ backend/web/css/$1 [L]
+RewriteRule ^admin/youthinc-ui/(.*)$ backend/web/youthinc-ui/$1 [L]
+RewriteRule ^admin/images/(.*)$ backend/web/images/$1 [L]
+RewriteRule ^uploads/(.*)$ uploads/$1 [L]
+
+RewriteCond %{REQUEST_URI} !^/youthinc/backend/web/(assets|css|images|youthinc-ui)/  
+RewriteCond %{REQUEST_URI} ^/youthinc/(admin)  
+RewriteRule ^.*$ backend/web/index.php [L]
+
+RewriteCond %{REQUEST_URI} !^/youthinc/(uploads)
+RewriteRule ^uploads/(.*)$ uploads/$1 [L]
+
+RewriteCond %{REQUEST_URI} ^/youthinc/ 
+RewriteRule ^youthinc-ui/(.*)$ frontend/web/youthinc-ui/$1 [L]
+RewriteRule ^uploads/(.*)$ uploads/$1 [L]
+
+
+RewriteCond %{REQUEST_URI} ^/youthinc/(assets|css)  
+RewriteRule ^assets/(.*)$ frontend/web/assets/$1 [L]
+RewriteRule ^css/(.*)$ frontend/web/css/$1 [L]
+RewriteRule ^images/(.*)$ frontend/web/images/$1 [L]
+RewriteRule ^youthinc-ui/(.*)$ frontend/web/youthinc-ui/$1 [L]
+
+RewriteCond %{REQUEST_URI} !^/youthinc/(frontend|backend)/web/(assets|css|images|youthinc-ui)/  
+RewriteCond %{REQUEST_URI} !index.php
+RewriteCond %{REQUEST_FILENAME} !-f [OR]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ frontend/web/index.php
+
