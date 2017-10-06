@@ -1,0 +1,187 @@
+a:11:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.30";s:10:"yiiVersion";s:8:"2.0.11.2";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.11.2";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.30";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:34:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:57:"C:\xampp5.6\htdocs\youthinc\vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:53:"C:\xampp5.6\htdocs\youthinc\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:51:"C:\xampp5.6\htdocs\youthinc\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:53:"C:\xampp5.6\htdocs\youthinc\vendor/yiisoft/yii2-faker";}}s:18:"mdmsoft/yii2-admin";a:3:{s:4:"name";s:18:"mdmsoft/yii2-admin";s:7:"version";s:7:"2.7.0.0";s:5:"alias";a:1:{s:10:"@mdm/admin";s:53:"C:\xampp5.6\htdocs\youthinc\vendor/mdmsoft/yii2-admin";}}s:23:"cornernote/yii2-linkall";a:3:{s:4:"name";s:23:"cornernote/yii2-linkall";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:19:"@cornernote/linkall";s:62:"C:\xampp5.6\htdocs\youthinc\vendor/cornernote/yii2-linkall/src";}}s:23:"yiisoft/yii2-httpclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-httpclient";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:15:"@yii/httpclient";s:58:"C:\xampp5.6\htdocs\youthinc\vendor/yiisoft/yii2-httpclient";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.8.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:60:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-krajee-base";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:65:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:65:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:66:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:67:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:63:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:63:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-sidenav";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:62:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:66:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:61:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:65:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-fileinput";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:63:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-depdrop";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.3.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:70:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:66:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:61:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:61:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.4.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:66:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.0.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:56:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widgets";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:53:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-mpdf";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.1.1.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:53:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-grid";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:66:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-datepicker";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:59:"C:\xampp5.6\htdocs\youthinc\vendor/yiisoft/yii2-swiftmailer";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:63:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-widget-select2";}}s:16:"yiisoft/yii2-jui";a:3:{s:4:"name";s:16:"yiisoft/yii2-jui";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:8:"@yii/jui";s:51:"C:\xampp5.6\htdocs\youthinc\vendor/yiisoft/yii2-jui";}}s:31:"2amigos/yii2-date-picker-widget";a:3:{s:4:"name";s:31:"2amigos/yii2-date-picker-widget";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:21:"@dosamigos/datepicker";s:70:"C:\xampp5.6\htdocs\youthinc\vendor/2amigos/yii2-date-picker-widget/src";}}s:22:"kartik-v/yii2-password";a:3:{s:4:"name";s:22:"kartik-v/yii2-password";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/password";s:57:"C:\xampp5.6\htdocs\youthinc\vendor/kartik-v/yii2-password";}}s:27:"2amigos/yii2-tinymce-widget";a:3:{s:4:"name";s:27:"2amigos/yii2-tinymce-widget";s:7:"version";s:7:"1.1.2.0";s:5:"alias";a:1:{s:18:"@dosamigos/tinymce";s:66:"C:\xampp5.6\htdocs\youthinc\vendor/2amigos/yii2-tinymce-widget/src";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:8:{s:4:"host";s:9:"localhost";s:10:"user-agent";s:73:"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0";s:6:"accept";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:15:"accept-language";s:14:"en-US,en;q=0.5";s:15:"accept-encoding";s:13:"gzip, deflate";s:6:"cookie";s:649:"_csrf-backend=5a62538858d833bcd9be32568bf841240e8e34e07116f79361108a8f48c68386a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22XHQ_SNt1ApQCYHwAoyNuDqSouf66exVL%22%3B%7D; advanced-backend=uodfqnvfrig2522bpontedtr00; _csrf-frontend=bb6ca5b746390f20b8ac344369e58fe9d2fa8d38c3ac635622da9ac5e14a8664a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22nRl-RqcUDfnRJpptdsMDBo-lF-2pDoto%22%3B%7D; advanced-frontend=3k4luthksa5invup97iehn7mu3; _identity=cd05d45023c1445219a18fe0f41dc16015a7c63bab7beeca64972335c5565937a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A14%3A%22%5B1%2C%22%22%2C2592000%5D%22%3B%7D";s:10:"connection";s:10:"keep-alive";s:25:"upgrade-insecure-requests";s:1:"1";}s:15:"responseHeaders";a:7:{s:12:"X-Powered-By";s:10:"PHP/5.6.30";s:24:"X-Pagination-Total-Count";s:2:"51";s:23:"X-Pagination-Page-Count";s:1:"3";s:25:"X-Pagination-Current-Page";s:1:"1";s:21:"X-Pagination-Per-Page";s:2:"20";s:4:"Link";s:187:"<http://localhost/youthinc/api/web/v1/users?page=1>; rel=self, <http://localhost/youthinc/api/web/v1/users?page=2>; rel=next, <http://localhost/youthinc/api/web/v1/users?page=3>; rel=last";s:12:"Content-Type";s:30:"application/xml; charset=UTF-8";}s:5:"route";s:14:"v1/users/index";s:6:"action";s:27:"yii\rest\IndexAction::run()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:49:{s:16:"REDIRECT_MIBDIRS";s:27:"C:/xampp5.6/php/extras/mibs";s:19:"REDIRECT_MYSQL_HOME";s:16:"\xampp\mysql\bin";s:21:"REDIRECT_OPENSSL_CONF";s:34:"C:/xampp5.6/apache/bin/openssl.cnf";s:29:"REDIRECT_PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:14:"REDIRECT_PHPRC";s:10:"\xampp\php";s:12:"REDIRECT_TMP";s:10:"\xampp\tmp";s:15:"REDIRECT_STATUS";s:3:"200";s:7:"MIBDIRS";s:27:"C:/xampp5.6/php/extras/mibs";s:10:"MYSQL_HOME";s:16:"\xampp\mysql\bin";s:12:"OPENSSL_CONF";s:34:"C:/xampp5.6/apache/bin/openssl.cnf";s:20:"PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:5:"PHPRC";s:10:"\xampp\php";s:3:"TMP";s:10:"\xampp\tmp";s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_USER_AGENT";s:73:"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0";s:11:"HTTP_ACCEPT";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.5";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:11:"HTTP_COOKIE";s:649:"_csrf-backend=5a62538858d833bcd9be32568bf841240e8e34e07116f79361108a8f48c68386a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22XHQ_SNt1ApQCYHwAoyNuDqSouf66exVL%22%3B%7D; advanced-backend=uodfqnvfrig2522bpontedtr00; _csrf-frontend=bb6ca5b746390f20b8ac344369e58fe9d2fa8d38c3ac635622da9ac5e14a8664a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22nRl-RqcUDfnRJpptdsMDBo-lF-2pDoto%22%3B%7D; advanced-frontend=3k4luthksa5invup97iehn7mu3; _identity=cd05d45023c1445219a18fe0f41dc16015a7c63bab7beeca64972335c5565937a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A14%3A%22%5B1%2C%22%22%2C2592000%5D%22%3B%7D";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:4:"PATH";s:845:"C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\xampp5.6\php\php.exe;C:\Program Files\PuTTY\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\xampp5.6\php;C:\Users\atkumar\AppData\Local\ComposerSetup\bin;C:\Users\atkumar\AppData\Roaming\Composer\vendor\bin";s:10:"SystemRoot";s:10:"C:\windows";s:7:"COMSPEC";s:27:"C:\windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\windows";s:16:"SERVER_SIGNATURE";s:95:"<address>Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:47:"Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:18:"C:/xampp5.6/htdocs";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:18:"C:/xampp5.6/htdocs";s:12:"SERVER_ADMIN";s:20:"postmaster@localhost";s:15:"SCRIPT_FILENAME";s:45:"C:/xampp5.6/htdocs/youthinc/api/web/index.php";s:11:"REMOTE_PORT";s:5:"55247";s:12:"REDIRECT_URL";s:26:"/youthinc/api/web/v1/users";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:26:"/youthinc/api/web/v1/users";s:11:"SCRIPT_NAME";s:27:"/youthinc/api/web/index.php";s:8:"PHP_SELF";s:27:"/youthinc/api/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1502569385.3499999;s:12:"REQUEST_TIME";i:1502569385;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:5:{s:13:"_csrf-backend";s:139:"5a62538858d833bcd9be32568bf841240e8e34e07116f79361108a8f48c68386a:2:{i:0;s:13:"_csrf-backend";i:1;s:32:"XHQ_SNt1ApQCYHwAoyNuDqSouf66exVL";}";s:16:"advanced-backend";s:26:"uodfqnvfrig2522bpontedtr00";s:14:"_csrf-frontend";s:140:"bb6ca5b746390f20b8ac344369e58fe9d2fa8d38c3ac635622da9ac5e14a8664a:2:{i:0;s:14:"_csrf-frontend";i:1;s:32:"nRl-RqcUDfnRJpptdsMDBo-lF-2pDoto";}";s:17:"advanced-frontend";s:26:"3k4luthksa5invup97iehn7mu3";s:9:"_identity";s:116:"cd05d45023c1445219a18fe0f41dc16015a7c63bab7beeca64972335c5565937a:2:{i:0;s:9:"_identity";i:1;s:14:"[1,"",2592000]";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:16:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1502569385.702791;i:4;a:0:{}i:5;i:2240584;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1502569385.7028551;i:4;a:0:{}i:5;i:2242408;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1502569385.825654;i:4;a:0:{}i:5;i:2696192;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1502569385.894541;i:4;a:0:{}i:5;i:3234568;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1502569385.902864;i:4;a:0:{}i:5;i:3274192;}i:20;a:6:{i:0;s:33:"Route requested: 'v1/users/index'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1502569385.933522;i:4;a:0:{}i:5;i:3579768;}i:21;a:6:{i:0;s:18:"Loading module: v1";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1502569385.9335411;i:4;a:0:{}i:5;i:3583152;}i:22;a:6:{i:0;s:28:"Route to run: v1/users/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1502569386.0127709;i:4;a:0:{}i:5;i:3945016;}i:23;a:6:{i:0;s:39:"Rate limit skipped: user not logged in.";i:1;i:4;i:2;s:37:"yii\filters\RateLimiter::beforeAction";i:3;d:1502569386.0758331;i:4;a:0:{}i:5;i:4214360;}i:24;a:6:{i:0;s:43:"Running action: yii\rest\IndexAction::run()";i:1;i:8;i:2;s:30:"yii\base\Action::runWithParams";i:3;d:1502569386.0759151;i:4;a:0:{}i:5;i:4212344;}i:25;a:6:{i:0;s:27:"SELECT COUNT(*) FROM [User]";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.2627289;i:4;a:0:{}i:5;i:5825344;}i:26;a:6:{i:0;s:82:"Opening DB connection: sqlsrv:Server=LOC6-LAP60\SQLEXPRESS;Database=YouthIncSurvey";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1502569386.262805;i:4;a:0:{}i:5;i:5830136;}i:31;a:6:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.3241329;i:4;a:0:{}i:5;i:5921392;}i:34;a:6:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'User' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.403512;i:4;a:0:{}i:5;i:5922672;}i:37;a:6:{i:0;s:856:"SELECT
+    [rc].[constraint_name] AS [fk_name],
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.4364231;i:4;a:0:{}i:5;i:5955448;}i:40;a:6:{i:0;s:81:"SELECT * FROM [User] ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.638299;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"C:\xampp5.6\htdocs\youthinc\backend\models\UserQuery.php";s:4:"line";i:23;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6116504;}}}s:9:"profiling";a:3:{s:6:"memory";i:6332536;s:4:"time";d:1.2142820358276367;s:8:"messages";a:12:{i:27;a:6:{i:0;s:82:"Opening DB connection: sqlsrv:Server=LOC6-LAP60\SQLEXPRESS;Database=YouthIncSurvey";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1502569386.2628469;i:4;a:0:{}i:5;i:5830872;}i:28;a:6:{i:0;s:82:"Opening DB connection: sqlsrv:Server=LOC6-LAP60\SQLEXPRESS;Database=YouthIncSurvey";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1502569386.303071;i:4;a:0:{}i:5;i:5849384;}i:29;a:6:{i:0;s:27:"SELECT COUNT(*) FROM [User]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.303288;i:4;a:0:{}i:5;i:5847808;}i:30;a:6:{i:0;s:27:"SELECT COUNT(*) FROM [User]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.30548;i:4;a:0:{}i:5;i:5848920;}i:32;a:6:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.3243361;i:4;a:0:{}i:5;i:5924080;}i:33;a:6:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.4030459;i:4;a:0:{}i:5;i:5925920;}i:35;a:6:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'User' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.4036601;i:4;a:0:{}i:5;i:5925720;}i:36;a:6:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'User' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.42835;i:4;a:0:{}i:5;i:5938824;}i:38;a:6:{i:0;s:856:"SELECT
+    [rc].[constraint_name] AS [fk_name],
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.4365821;i:4;a:0:{}i:5;i:5958928;}i:39;a:6:{i:0;s:856:"SELECT
+    [rc].[constraint_name] AS [fk_name],
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.6006069;i:4;a:0:{}i:5;i:5961936;}i:41;a:6:{i:0;s:81:"SELECT * FROM [User] ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.638412;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"C:\xampp5.6\htdocs\youthinc\backend\models\UserQuery.php";s:4:"line";i:23;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6119056;}i:42;a:6:{i:0;s:81:"SELECT * FROM [User] ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.6409991;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"C:\xampp5.6\htdocs\youthinc\backend\models\UserQuery.php";s:4:"line";i:23;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6158920;}}}s:2:"db";a:1:{s:8:"messages";a:10:{i:29;a:6:{i:0;s:27:"SELECT COUNT(*) FROM [User]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.303288;i:4;a:0:{}i:5;i:5847808;}i:30;a:6:{i:0;s:27:"SELECT COUNT(*) FROM [User]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.30548;i:4;a:0:{}i:5;i:5848920;}i:32;a:6:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.3243361;i:4;a:0:{}i:5;i:5924080;}i:33;a:6:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.4030459;i:4;a:0:{}i:5;i:5925920;}i:35;a:6:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'User' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.4036601;i:4;a:0:{}i:5;i:5925720;}i:36;a:6:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'User' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.42835;i:4;a:0:{}i:5;i:5938824;}i:38;a:6:{i:0;s:856:"SELECT
+    [rc].[constraint_name] AS [fk_name],
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.4365821;i:4;a:0:{}i:5;i:5958928;}i:39;a:6:{i:0;s:856:"SELECT
+    [rc].[constraint_name] AS [fk_name],
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.6006069;i:4;a:0:{}i:5;i:5961936;}i:41;a:6:{i:0;s:81:"SELECT * FROM [User] ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.638412;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"C:\xampp5.6\htdocs\youthinc\backend\models\UserQuery.php";s:4:"line";i:23;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6119056;}i:42;a:6:{i:0;s:81:"SELECT * FROM [User] ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1502569386.6409991;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"C:\xampp5.6\htdocs\youthinc\backend\models\UserQuery.php";s:4:"line";i:23;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6158920;}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:8:"timeline";a:3:{s:5:"start";d:1502569385.502352;s:3:"end";d:1502569386.735517;s:6:"memory";i:6332536;}s:4:"user";N;s:6:"router";a:1:{s:8:"messages";a:15:{i:5;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1502569385.932795;i:4;a:0:{}i:5;i:3564448;}i:6;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1502569385.9328899;i:4;a:0:{}i:5;i:3565568;}i:7;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1502569385.933028;i:4;a:0:{}i:5;i:3566720;}i:8;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1502569385.9331629;i:4;a:0:{}i:5;i:3567832;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1502569385.9332039;i:4;a:0:{}i:5;i:3569016;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:19:"POST v1/users/login";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.9332559;i:4;a:0:{}i:5;i:3571792;}i:11;a:6:{i:0;a:3:{s:4:"rule";s:17:"GET v1/users/data";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.9333069;i:4;a:0:{}i:5;i:3572944;}i:12;a:6:{i:0;a:3:{s:4:"rule";s:19:"GET v1/users/survey";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.9333329;i:4;a:0:{}i:5;i:3574096;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:32:"PUT,PATCH v1/users/<id:\d[\d,]*>";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.933351;i:4;a:0:{}i:5;i:3575264;}i:14;a:6:{i:0;a:3:{s:4:"rule";s:29:"DELETE v1/users/<id:\d[\d,]*>";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.933368;i:4;a:0:{}i:5;i:3576424;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:31:"GET,HEAD v1/users/<id:\d[\d,]*>";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.933429;i:4;a:0:{}i:5;i:3577584;}i:16;a:6:{i:0;a:3:{s:4:"rule";s:13:"POST v1/users";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.9334469;i:4;a:0:{}i:5;i:3578728;}i:17;a:6:{i:0;s:38:"Request parsed with URL rule: v1/users";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1502569385.9334731;i:4;a:0:{}i:5;i:3580752;}i:18;a:6:{i:0;a:3:{s:4:"rule";s:17:"GET,HEAD v1/users";s:5:"match";b:1;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1502569385.93349;i:4;a:0:{}i:5;i:3580928;}i:19;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1502569385.9335051;i:4;a:0:{}i:5;i:3580576;}}}s:7:"summary";a:9:{s:3:"tag";s:13:"598f63a9cb441";s:3:"url";s:42:"http://localhost/youthinc/api/web/v1/users";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:3:"::1";s:4:"time";d:1502569385.3499999;s:10:"statusCode";i:200;s:8:"sqlCount";i:5;s:9:"mailCount";i:0;}}
