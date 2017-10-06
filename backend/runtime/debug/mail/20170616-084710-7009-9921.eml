@@ -1,0 +1,23 @@
+Message-ID: <fae059c63c77c27df0f2c81e5116a11f@localhost>
+Date: Fri, 16 Jun 2017 08:47:09 +0200
+Subject: dummy02
+From: atinekvatsa@gmail.com
+To: atkumar@alphaserveit.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1497595629_49906a76e3aa9a9763da52c323e63302_=_"
+
+
+--_=_swift_v4_1497595629_49906a76e3aa9a9763da52c323e63302_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1497595629_49906a76e3aa9a9763da52c323e63302_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1497595629_49906a76e3aa9a9763da52c323e63302_=_--
